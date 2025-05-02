@@ -1,0 +1,4 @@
+mkdir my-first-commit
+cd my-first-commit
+git init
+ 
