@@ -1,4 +1,1 @@
-mkdir my-first-commit
-cd my-first-commit
-git init
- 
+git add f886b278-5cef-42c1-adf9-2d71b3e26db2.png
